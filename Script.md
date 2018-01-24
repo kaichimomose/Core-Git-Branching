@@ -30,5 +30,5 @@ The end.
 
 * Young Boy: Eliel
 * Unicorn King: Alan
-* Zookeeper: Braus
+* Zookeeper: Braus, Jade
 * Friendly Koala: Mike
